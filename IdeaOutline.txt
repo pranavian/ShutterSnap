@@ -1,0 +1,20 @@
+Nikon DSLR control system
+
+ToDo
+1. Download Nikon SDK c# Wrapper
+2. Create Interface
+3. Code Interface
+4. Recognise Camera
+5. Take a photograph
+
+Primary Goals:
+1. Take photograph
+2. Set folder to store images in
+3. Change Shutter Speed
+4. Change Aperture
+5. Change ISO
+6. Display Camera Info
+
+Secondary Goals:
+1. Image upon motion detection
+2. Bulb mode
