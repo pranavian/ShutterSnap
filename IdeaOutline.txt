@@ -18,3 +18,4 @@ Primary Goals:
 Secondary Goals:
 1. Image upon motion detection
 2. Bulb mode
+3. 
